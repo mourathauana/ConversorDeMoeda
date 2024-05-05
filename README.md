@@ -1,5 +1,4 @@
 
-Claro, aqui está um exemplo de README para um conversor de moeda em Java:
 
 Conversor de Moeda em Java
 Este é um simples conversor de moeda implementado em Java. Ele permite converter valores de uma moeda para outra com base nas taxas de câmbio fornecidas.
